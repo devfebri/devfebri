@@ -6,7 +6,7 @@
 <hr />
 <h3 align="left">Social Media:</h3>
 <p align="left">
-    <a href="[https://www.linkedin.com/in/arvino-vino](https://www.linkedin.com/in/febri-febri-a3861730b/)/" target="blank"
+    <a href="https://www.linkedin.com/in/febri-febri-a3861730b/" target="blank"
     ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -95,9 +95,9 @@
 <h3>Pengalaman Kerja:</h3>
 <div>
     <ol>
-    <li>PT Perkebunan Nusantara VI (Magang | 03/2021-09-2021)</li>
-    <li>PT Perkebunan Nusantara VI (Kontrak | 10/2021-04-2021)</li>
-    <li>PT Sabilamall Niaga Digital (04/2021-Sekarang)</li>
+    <li>Badan Kepegawaian dan Pengambangan Sumber Daya Manusia Daerah Kota Jambi (10/01/2022 - 02/02/2023)</li>
+    <li>RS Baiturrahim Jambi (06/02/2023 - 01/05/2024)</li>
+    <li>PT Sinar Sentosa Primatama (06/05/2024-Sekarang)</li>
     </ol>
 </div>
 
@@ -105,43 +105,29 @@
 <div><h4>Solo Project</h4></div>
 <div>
     <ol>
-    <li>Website e-Learning SMK Negeri 2 Kota Jambi</li>
-    <li>Android FerryJam Ku</li>
-    <li>Android e-Learning SMK Negeri 2 Kota Jambi</li>
-    <li>Klinik Pratama</li>
-    <li>Petshop</li>
-    <li>Noleh Jambi</li>
-    <li>Website e-Doremi PT Perkebunan Nusantara VI</li>
-    <li>Android e-Doremi PT Perkebunan Nusantara VI</li>
-    <li>e-Planters PT Perkebunan Nusantara VI</li>
-    <li>e-Contract PT Perkebunan Nusantara VI</li>
-    <li>WA Blaster PT Perkebunan Nusantara VI</li>
-    <li>StandFor PT Perkebunan Nusantara VI</li>
-    <li>e-Kernel PT Perkebunan Nusantara VI</li>
-    <li>Android ASISTAN (Presensi Geofence) PT Perkebunan Nusantara VI</li>
-    <li>e-Comprice PT Perkebunan Nusantara VI</li>
-    <li>Website e-Retail PT Perkebunan Nusantara VI</li>
-    <li>Android e-Retail PT Perkebunan Nusantara VI</li>
-    <li>Aplikasi Monitoring Display PT Perkebunan Nusantara VI</li>
-    <li>P2BJ PT Perkebunan Nusantara VI</li>
-    <li>Apotek Lidya</li>
-    <li>Tina Wedding Organizer</li>
-    <li>PPDB SMK YKPP</li>
-    <li>PSB SMK PGRI 4</li>
-    <li>Perpustakaan SMA Swasta Pertiwi</li>
-    <li>SIAKAD SMA FPP</li>
-    <li>Website e-Learning</li>
-    <li>Android Salvo (Management Karyawan & Presensi Geofence)</li>
+    <li>Website e-Learning SMP Negeri 1 Muaro Jambi</li>
+    <li>Website e-Learning SMP Negeri 3 Tanjab Timur</li>
+    <li>Website e-Learning SMP Negeri 4 Muaro Jambi</li>
+    <li>Website e-Learning SMK Negeri 4 Tanjab Timur</li>
+    <li>Website e-Learning MTS Negeri 3 Muaro Jambi</li>
+    <li>Website e-Perpustakaan SMA Negeri 8 Merangin</li>
+    <li>Website e-Perpustakaan SMP Negeri 4 Muaro Jambi</li>
+    <li>Website SPK Metode LVQ3</li>
+    <li>Website SPK Guru Teladan Metode SMART dan AHP</li>
+    <li>Website Penilaian Perilaku Pegawai pada BKPSDMD Kota Jambi</li>
+    <li>Website Layanan Satyalancana pada BKPSDMD Kota Jambi</li>
+    <li>Website Pengolahan Data Penduduk Pada Kantor Desa Bunga Tanjung Kabupaten Tanjung Jabung Barat</li>
+    <li>Website Resume Perjalanan Dinas Sumatera Selatan</li>
+    <li>Website T6E6 Indomaret Soekarno Hatta </li>
+    <li>Website Store DY GESPER </li>
+    <li>Website vivo Service Center Jambi </li>
+    <li><a href="https://birumerdeka.com/">Website Berita Birumerdeka</a></li>
+    <li><a href="https://ant.rs-baiturrahim.com/rsbr/pengajuan_cuti/">Website Pengajuan Cuti RS Baiturrahim Jambi</a></li>
+    <li>Desktop Aplikasi Laundry</li>
     </ol>
 </div>
 <div><h4>Team Project</h4></div>
 <ol>
-    <li>SIEDASI PT Perkebunan Nusantara VI</li>
-    <li>e-MoBill PT Perkebunan Nusantara VI</li>
-    <li>Aplikasi Monitor PT Perkebunan Nusantara VI</li>
-    <li>LinkChat Sabilamall</li>
-    <li>Api Vendor Sabilamall</li>
-    <li>Sabilamall</li>
-    <li>Server TEYP</li>
+    <li><a href="https://sinarsentosaprimatama.com/">Website PT Sinar Sentosa Primatama</a></li>
 </ol>
 </div>
