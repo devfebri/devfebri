@@ -97,7 +97,7 @@
     <ol>
     <li>Badan Kepegawaian dan Pengambangan Sumber Daya Manusia Daerah Kota Jambi (10/01/2022 - 02/02/2023)</li>
     <li>RS Baiturrahim Jambi (06/02/2023 - 01/05/2024)</li>
-    <li>PT Sinar Sentosa Primatama (06/05/2024-Sekarang)</li>
+    <li>PT Sinar Sentosa Primatama (06/05/2024 - Sekarang)</li>
     </ol>
 </div>
 
