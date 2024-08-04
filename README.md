@@ -124,10 +124,12 @@
     <li><a href="https://birumerdeka.com/">Website Berita Birumerdeka</a></li>
     <li><a href="https://ant.rs-baiturrahim.com/rsbr/pengajuan_cuti/">Website Pengajuan Cuti RS Baiturrahim Jambi</a></li>
     <li>Desktop Aplikasi Laundry</li>
+    <li>Android Aplikasi Pengenalan Huruf dan Angka pada TK Dharma Wanita Mendalo Darat</li>
     </ol>
 </div>
 <div><h4>Team Project</h4></div>
 <ol>
+    <li>Website Electronic Medical Record RS Baiturrahim Jambi</li>
     <li><a href="https://sinarsentosaprimatama.com/">Website PT Sinar Sentosa Primatama</a></li>
 </ol>
 </div>
