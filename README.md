@@ -6,7 +6,7 @@
 <hr />
 <h3 align="left">Social Media:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/arvino-vino/" target="blank"
+    <a href="[https://www.linkedin.com/in/arvino-vino](https://www.linkedin.com/in/febri-febri-a3861730b/)/" target="blank"
     ><img
         align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
