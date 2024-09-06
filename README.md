@@ -121,7 +121,7 @@
     <li>Website T6E6 Indomaret Soekarno Hatta </li>
     <li>Website Store DY GESPER </li>
     <li>Website vivo Service Center Jambi </li>
-      <li a href="https://riki.padepokan-it.com/">Website ADM Gudang PT. Telkom Akses Jambi</a></li>
+    <li><a href="https://riki.padepokan-it.com/">Website ADM Gudang PT. Telkom Akses Jambi</a></li>
     <li><a href="https://birumerdeka.com/">Website Berita Birumerdeka</a></li>
     <li><a href="https://ant.rs-baiturrahim.com/rsbr/pengajuan_cuti/">Website Pengajuan Cuti RS Baiturrahim Jambi</a></li>
     <li>Desktop Aplikasi Laundry</li>
